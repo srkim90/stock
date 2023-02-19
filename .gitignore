@@ -1,0 +1,3 @@
+py-engine/.idea/
+*.pyc
+*/__pycache__/
